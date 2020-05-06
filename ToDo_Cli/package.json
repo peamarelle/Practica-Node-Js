@@ -1,0 +1,16 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "ToDo List desde la CLI de Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^3.1.2",
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
